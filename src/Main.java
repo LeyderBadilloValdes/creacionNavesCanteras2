@@ -95,7 +95,7 @@ public class Main {
 
                     break;
                 /**
-                 * Representa la condicion final después de que el usuario decida terminar el programa.
+                 * Representa la condicion final después de que el usuario decida terminar el programa y finalizar la creacion.
                  */
                 default:
                     JOptionPane.showMessageDialog(null, "No crearas mas naves!, Hasta la proxima.",
